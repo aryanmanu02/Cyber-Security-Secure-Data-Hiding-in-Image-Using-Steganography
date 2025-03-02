@@ -3,7 +3,7 @@
 **Folders**
 Output- Contains the encrytped image
 
-image.jepg - image used for encryption
+image.jpg - image used for encryption
 
  **Install dependencies:**  
    ```bash
