@@ -1,5 +1,9 @@
 # Cyber Security - Secure Data Hiding in Images using Steganography
 
+**Folders**
+Output- Contains the encrytped image
+image.jepg - image used for encryption
+
  **Install dependencies:**  
    ```bash
    pip install opencv-python numpy PyQt6
